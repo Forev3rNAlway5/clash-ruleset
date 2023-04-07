@@ -1,0 +1,9 @@
+payload:
+
+  # > AWSL Direct
+  - DOMAIN-SUFFIX,awsl.lc
+  - DOMAIN-SUFFIX,awsl.im
+  - DOMAIN-SUFFIX,nhost.00cdn.com
+
+  # > PwC VPN Direct
+  - DOMAIN-SUFFIX,mvpn.pwchk.com

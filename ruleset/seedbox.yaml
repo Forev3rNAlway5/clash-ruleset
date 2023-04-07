@@ -1,0 +1,6 @@
+payload:
+
+  # > Seedbox
+  - DOMAIN-SUFFIX,seedbox.sjh.moe
+  - IP-CIDR,195.154.179.40/32
+  - IP-CIDR,107.189.8.155/32

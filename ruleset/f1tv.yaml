@@ -1,0 +1,7 @@
+payload:
+
+  # > F1TV
+  - DOMAIN,mobile-collector.newrelic.com
+  - DOMAIN-SUFFIX,lbitmovin.com
+  - DOMAIN-SUFFIX,formula1.com
+  - DOMAIN-SUFFIX,f1prodlive.akamaized.net

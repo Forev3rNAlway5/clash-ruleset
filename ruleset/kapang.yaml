@@ -1,0 +1,7 @@
+payload:
+  # Kapang TV
+  - DOMAIN-SUFFIX,kapang.com
+  - DOMAIN-SUFFIX,apis.cmp.quantcast.com
+  - DOMAIN-SUFFIX,cdnuk001.broadcastcdn.net
+  - DOMAIN-SUFFIX,quantserve.com,Proxy
+  - DOMAIN-SUFFIX,quantcast.com

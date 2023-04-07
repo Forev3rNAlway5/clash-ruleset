@@ -1,0 +1,6 @@
+payload:
+
+  # > TruckersMP
+  - IP-CIDR,145.239.131.35/32
+  - IP-CIDR,158.69.120.230/32
+  - IP-CIDR,139.99.90.70/32
