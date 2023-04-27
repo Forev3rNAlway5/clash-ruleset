@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,bilibili.com
   - DOMAIN-SUFFIX,bilibili.tv
   - DOMAIN-SUFFIX,biliapi.com
+  - DOMAIN-SUFFIX,biliapi.net
   - IP-CIDR,45.43.32.234/32,no-resolve
   - IP-CIDR,103.151.150.0/23,no-resolve
   - IP-CIDR,119.29.29.29/32,no-resolve
