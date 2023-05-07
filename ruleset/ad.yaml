@@ -47,7 +47,7 @@ payload:
   # https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingLite
   # bypass 天天爱消除看广告
   #- DOMAIN-SUFFIX,e.qq.com
-  
+  #- DOMAIN-SUFFIX,gdt.qq.com
   - DOMAIN,00-gov.cn
   - DOMAIN,0024aadd.com
   - DOMAIN,0026645142c89aeb1.com
@@ -29146,7 +29146,7 @@ payload:
   - DOMAIN-SUFFIX,gdsc168.com
   - DOMAIN-SUFFIX,gdskywings.com
   - DOMAIN-SUFFIX,gdsqwy.org
-  - DOMAIN-SUFFIX,gdt.qq.com
+
   - DOMAIN-SUFFIX,gdunt.com
   - DOMAIN-SUFFIX,gdyjs.com
   - DOMAIN-SUFFIX,gdyn.cnn.com
