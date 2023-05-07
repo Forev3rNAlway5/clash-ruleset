@@ -48,6 +48,7 @@ payload:
   # bypass 天天爱消除看广告
   #- DOMAIN-SUFFIX,e.qq.com
   #- DOMAIN-SUFFIX,gdt.qq.com
+  #- DOMAIN,adsmind.gdtimg.com
   - DOMAIN,00-gov.cn
   - DOMAIN,0024aadd.com
   - DOMAIN,0026645142c89aeb1.com
@@ -1798,7 +1799,7 @@ payload:
   - DOMAIN,adsmarket.com
   - DOMAIN,adsmarket.es
   - DOMAIN,adsmind.apdcdn.tc.qq.com
-  - DOMAIN,adsmind.gdtimg.com
+
   - DOMAIN,adsmis.duxiaoman.com
   - DOMAIN,adsmoon.com
   - DOMAIN,adsnative.com
