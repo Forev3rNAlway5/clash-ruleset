@@ -1,3 +1,5 @@
 payload:
   - DOMAIN-SUFFIX,adobe.io
   - DOMAIN-SUFFIX,adobelogin.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,gstatic.com
