@@ -460,8 +460,8 @@ payload:
   - DOMAIN-SUFFIX,abchina.com
   - DOMAIN-SUFFIX,abercrombie.com
   - DOMAIN-SUFFIX,acfun.tv
-  - DOMAIN-SUFFIX,air-matters.com
-  - DOMAIN-SUFFIX,air-matters.io
+#  - DOMAIN-SUFFIX,air-matters.com
+#  - DOMAIN-SUFFIX,air-matters.io
   - DOMAIN-SUFFIX,aixifan.com
   - DOMAIN-SUFFIX,algocasts.io
   - DOMAIN-SUFFIX,babytree.com
@@ -686,3 +686,6 @@ payload:
 
   # Onedrive CDN
   - DOMAIN,my.microsoftpersonalcontent.com
+
+  - DOMAIN-KEYWORD,libvio
+
